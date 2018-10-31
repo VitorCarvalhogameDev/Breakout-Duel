@@ -2,13 +2,11 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PlayerMovement : MonoBehaviour {
+public class Weapon : MonoBehaviour {
 
 	// Use this for initialization
-	void Start ()
-    {
-        // this will be the player movement base class
-        Debug.Log("teste commit");
+	void Start () {
+		// this will be the weapon base class
 	}
 	
 	// Update is called once per frame
