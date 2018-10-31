@@ -5,8 +5,9 @@ using UnityEngine;
 public class PlayerMovement : MonoBehaviour {
 
 	// Use this for initialization
-	void Start () {
-		
+	void Start ()
+    {
+        Debug.Log("teste commit");
 	}
 	
 	// Update is called once per frame
